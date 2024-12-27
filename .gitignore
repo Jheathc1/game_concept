@@ -1,0 +1,7 @@
+# Ignore Lua backups
+*.bak
+*.swp
+
+# Ignore Love2D build files (if any)
+*.exe
+*.app
